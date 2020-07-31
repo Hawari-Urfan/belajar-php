@@ -1,0 +1,5 @@
+Nama : Hawari Urfan
+Status : Kuliah 
+Jurusan : IT
+Skill : Hanya bisa php dan laravel
+Cita-Cita : Ingin berkerja di backend dev
